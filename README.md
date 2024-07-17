@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohanKMK
 - 👀 I’m interested in Java.
-- 🌱 I’m currently learning Springboot
+- 🌱 I’m currently working on Java Applications.
 - 💞️ I’m looking to collaborate on Java developer. 
 - 📫 How to reach me mohankrishnamonu@gmail.com.
 
