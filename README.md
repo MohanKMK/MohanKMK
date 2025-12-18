@@ -1,5 +1,7 @@
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00A6FF&center=true&width=800&lines=Hi,+I'm+Mohan+Krishna+Kondiparthi;Full+Stack+Java+Developer;Backend+Enthusiast+|+Cloud+Learner)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00A6FF&center=true&vCenter=true&width=800&lines=Hi,+I'm+Mohan+Krishna+Kondiparthi;Full+Stack+Java+Developer;Backend+Enthusiast+|+Cloud+Learner" />
+</p>
 
 
 <p align="center">
